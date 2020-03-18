@@ -20,7 +20,8 @@ public class Main {
         xmlList[3] = "<tag2>";
         xmlList[4] = "text2";
         xmlList[5] = "</tag2>";
-	String abc = "look at me, me awsome";
+
+	String abc = "Hello people!!!!!";
 
         Document xml = new XML(xmlList);
 
